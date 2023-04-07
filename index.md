@@ -18,7 +18,7 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
 
 <br>
 
-**Attending the event is free of charge**. Join the discussions as an <a href="http://127.0.0.1:4000/venue_and_accomodation/"><b>attendee</b></a>, or take a chance to present your work by answering our <a href="http://127.0.0.1:4000/participate/"><b>call for submission</b></a>!
+**Attending the event is free of charge**. Join the discussions as an <a href="https://imolconf2023.github.io/venue_and_accomodation/"><b>attendee</b></a>, or take a chance to present your work by answering our <a href="https://imolconf2023.github.io/participate/"><b>call for submission</b></a>!
 
 
 <br>
