@@ -48,11 +48,11 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/173b.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/richard_duro/"><b>Richard Duro</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/olivier_sigaud/"><b>Olivier Sigaud</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/matej_hoffmann/"><b>Matej Hoffmann</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/gianluca_baldassarre/"><b>Gianluca Baldassarre</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/pierre_yves_oudeyer/"><b>Pierre-yves Oudeyer</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/richard_duro/"><b>Richard Duro</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/olivier_sigaud/"><b>Olivier Sigaud</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/matej_hoffmann/"><b>Matej Hoffmann</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/gianluca_baldassarre/"><b>Gianluca Baldassarre</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/pierre_yves_oudeyer/"><b>Pierre-yves Oudeyer</b></a></td>
   </tr>
 </table>
 
@@ -68,9 +68,9 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/l24z.png" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/emre_ugur/"><b>Emre Ugur</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/jeff_clune/"><b>Jeff Clune</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/sylvain_calinon/"><b>Sylvain Calinon</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/emre_ugur/"><b>Emre Ugur</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/jeff_clune/"><b>Jeff Clune</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/sylvain_calinon/"><b>Sylvain Calinon</b></a></td>
     <td style="text-align: center"><i>coming soon</i></td>
     <td style="text-align: center"><i>coming soon</i></td>
   </tr>
@@ -95,11 +95,11 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/5wat.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/stephane_doncieux/"><b>Stephane Doncieux</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/georg_martius/"><b>Georg Martius</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/sao_mai_nguyen/"><b>Sao Mai Nguyen</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/emre_ugur/"><b>Emre Ugur</b></a></td>
-    <td style="text-align: center"><a href="http://127.0.0.1:4000/people/johann_huber/"><b>Johann Huber</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/stephane_doncieux/"><b>Stephane Doncieux</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/georg_martius/"><b>Georg Martius</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/sao_mai_nguyen/"><b>Sao Mai Nguyen</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/emre_ugur/"><b>Emre Ugur</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/johann_huber/"><b>Johann Huber</b></a></td>
   </tr>
 </table>
 

@@ -1,5 +1,4 @@
 ---
-title: Looks like you're offline
 indexing: false
 sitemap: false
 ---
