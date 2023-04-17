@@ -9,7 +9,7 @@
 <br>
 
 
-<table class="row">
+<table class="row" >
   <tr>
     <td class="column" style="font-weight:bold">
         September, 13th
@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td class="column" style="vertical-align:top">
+    <td class="column" style="vertical-align:top;padding-right: 40px">
         <br>
         09:00	Beginning of the day<br>
         <br>
@@ -30,7 +30,7 @@
         <br>
         18:20	End of the day<br>
     </td>
-    <td class="column" style="vertical-align:top">
+    <td class="column" style="vertical-align:top;padding-right: 40px">
         <br>
         09:00	Beginning of the day<br>
         <br>
@@ -38,7 +38,7 @@
         <br>
         17:50	End of the day<br>
     </td>
-    <td class="column" style="vertical-align:top">
+    <td class="column" style="vertical-align:top;padding-right: 40px">
         <br>
         09:00	Beginning of the day<br>
         <br>

@@ -217,7 +217,6 @@ a {
     font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, regular);
-    width: 100%;
 
     thead {
 
@@ -255,15 +254,6 @@ a {
     @include baseline(theta, $headingtype, 2, 2, all);
 
     color: $captionColour;
-  }
-
-  // Nice spacing for captions.
-  h1 + .caption, .alpha + .caption, h2 + .caption, .beta + .caption, h3 + .caption, .gamma + .caption {
-    margin-top: -1rem;
-  }
-
-  .delta + .caption, .epsilon + .caption, .zeta + .caption {
-    margin-top: 0rem;
   }
 
   // Quotes.
