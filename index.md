@@ -18,7 +18,7 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
 
 <br>
 
-**Attending the event is free of charge**. Join the discussions as an <a href="https://imolconf2023.github.io/venue_and_accomodation/"><b>attendee</b></a>, or take a chance to present your work by answering our <a href="https://imolconf2023.github.io/participate/"><b>call for submission</b></a>!
+Take a chance to present your work by answering our call for submission, or join the discussions as a simple attendee. <a href="https://imolconf2023.github.io/participate/"><b>Attending the event is free of charge</b></a>!
 
 
 <br>
@@ -62,17 +62,18 @@ Following the five previous workshops, IMOL'23 will explore the advancements of 
 <table>
   <tr>
     <td style="text-align: center"><img src="https://pbs.twimg.com/profile_images/1293132915702935553/k3FTisi1_400x400.jpg" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://psychology.berkeley.edu/sites/default/files/styles/300x300sc/public/people/XuFnew.jpg?itok=loFZeIlQ" style="width:200px;height:200px;"></td>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/f20e.png" style="width:200px;height:200px;"></td>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/f9k1.jpg" style="width:200px;height:200px;"></td>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/l24z.png" style="width:200px;height:200px;"></td>
-    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/l24z.png" style="width:200px;height:200px;"></td>
+
   </tr>
   <tr>
     <td style="text-align: center"><a href="https://imolconf2023.github.io/people/emre_ugur/"><b>Emre Ugur</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/fei_xu/"><b>Fei Xu</b></a></td>
     <td style="text-align: center"><a href="https://imolconf2023.github.io/people/jeff_clune/"><b>Jeff Clune</b></a></td>
     <td style="text-align: center"><a href="https://imolconf2023.github.io/people/sylvain_calinon/"><b>Sylvain Calinon</b></a></td>
-    <td style="text-align: center"><i>coming soon</i></td>
-    <td style="text-align: center"><i>coming soon</i></td>
+    <td style="text-align: center"><i></i></td>
   </tr>
 </table>
 

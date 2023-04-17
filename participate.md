@@ -3,11 +3,12 @@
 
 <br>
 
-#### Call for contribution
+#### Participate
+
 
 <br>
 
-Participation in the workshop is free of charge. Given the specific nature of the meeting it is limited to a restricted number of people. Prospective attendees should submit an abstract to be presented as a poster or contributed talk.
+Participation in the workshop is free of charge. Given the specific nature of the meeting it is limited to a restricted number of people, <b>prospective attendees should submit either a brief statement of motivation or (preferably) an abstract to be presented as a poster or contributed talk.</b>
 
 <br>
 
@@ -29,13 +30,16 @@ Topics of interest involve open-ended lifelong learning in autonomous agents and
 * Abstraction and hierarchies of goals and skills
 * Visual planning and problem solving
 * Mitigating risks of real-world deployment of open-ended learning systems
+* Langage-based reinforcement learning 
 
 <br>
 <br>
 
 #### Submission process
 
+
 The submission should be made by July 10th 2023 over easychair: *opening soon*
+
 
 
 <br>

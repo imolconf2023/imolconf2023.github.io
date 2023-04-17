@@ -5,9 +5,14 @@
 
 #### Venue
 
-Sorbonne University has several campuses in Paris. The meeting will stand on the Science campus of Sorbonne University (Pierre et Marie Curie), at the Jussieu subway station.
+
+Sorbonne University has several campuses in Paris. <b>The meeting will stand on the Science campus of Sorbonne University (Pierre et Marie Curie), at the Jussieu subway station.</b> IMOL '23 will take place within a 10 minutes walk from the center of Paris!
+
 <br>
 <br>
+
+{% include figure.html image="https://www.zupimages.net/up/23/16/7yql.png" position="center" %}
+
 
 <b>Location:</b><br>
 Sorbonne Université, campus Pierre et Marie Curie<br>
@@ -21,6 +26,8 @@ Sorbonne Université, campus Pierre et Marie Curie<br>
 
 {% include figure.html image="https://www.zupimages.net/up/23/14/pa60.png" position="right" width="570" height="300" %}
 
+<br>
+<br>
 <br>
 <br>
 
