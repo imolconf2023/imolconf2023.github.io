@@ -30,7 +30,7 @@ Topics of interest involve open-ended lifelong learning in autonomous agents and
 * Abstraction and hierarchies of goals and skills
 * Visual planning and problem solving
 * Mitigating risks of real-world deployment of open-ended learning systems
-* Langage-based reinforcement learning 
+* Language-based reinforcement learning 
 
 <br>
 <br>
