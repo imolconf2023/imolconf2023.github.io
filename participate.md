@@ -48,9 +48,9 @@ The submission should be made by July 10th 2023 over easychair: *opening soon*
 
 #### Important dates
 
-**Abstract submission opening**: <i>coming soon</i>
+**Abstract/Registration submission opening**: <i>coming soon</i>
 
-**Abstract submission deadline**: July 10, 2023
+**Abstract/Registration submission deadline**: July 10, 2023
 
 **Conference dates**: 13th to the 15th of September 2023
 

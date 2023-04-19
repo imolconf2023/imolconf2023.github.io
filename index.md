@@ -213,7 +213,7 @@ Take a chance to present your work by answering our call for submission, or join
 4th-6th of October 2017 at Rome, Italy
 <br>
 <br>
-&bull; International Workshop on Intrinsic Motivations and Open-Ended Development in Animals, Humans, and Robots 2017<br>
+&bull; International Workshop on Intrinsic Motivations and Open-Ended Development in Animals, Humans, and Robots 2013<br>
 6th-8th of June 2013 at Rome, Italy
 <br>
 <br>
