@@ -145,6 +145,21 @@ Take a chance to present your work by answering our call for submission, or join
 <br>
 
 
+<table style="display: inline-block">
+  <tr>
+    <td style="text-align: center"><img src="https://robohub.org/wp-content/uploads/2016/10/VieriGiulianoSantucci-1-220x220.jpg" style="width:200px;height:200px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/vieri_santucci/"><b>Vieri Giuliano Santucci</b></a></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 ### Organizers
 
 
@@ -199,6 +214,11 @@ Take a chance to present your work by answering our call for submission, or join
 
 <br>
 <br>
+
+
+
+
+
 
 ### Previous editions
 
