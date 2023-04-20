@@ -4,8 +4,9 @@
 <br>
 <br>
 
-<table>
-  <tr>
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/173b.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +15,9 @@
   <tr>
     <td style="text-align: center">speaker</td>
   </tr>
-</table>
+  </table>
+</div>
+
 
 
 ###### Bio
@@ -50,7 +53,7 @@ He collaborates with many academic labs (e.g. Sorbonne-Université, MILA, Inserm
 
 
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

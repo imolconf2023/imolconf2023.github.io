@@ -4,8 +4,9 @@
 <br>
 <br>
 
-<table>
-  <tr>
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://www.isir.upmc.fr/wp-content/uploads/2022/03/919_ISIR_SIGAUD_Olivier.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +15,8 @@
   <tr>
     <td style="text-align: center">speaker</td>
   </tr>
-</table>
+  </table>
+</div>
 
 
 ###### Bio
@@ -54,8 +56,9 @@ He was responsible of a group about Learning for Control and Decision in Robotic
 <br>
 
 
+
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

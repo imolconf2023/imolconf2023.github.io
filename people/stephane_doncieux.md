@@ -4,7 +4,9 @@
 <br>
 <br>
 
-<table>
+
+<div align="center">
+  <table class="row">
   <tr>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/10/bqco.jpg" style="width:200px;height:200px;"></td>
   </tr>
@@ -14,7 +16,11 @@
   <tr>
     <td style="text-align: center">organizer</td>
   </tr>
-</table>
+    
+  
+  </table>
+</div>
+
 
 
 ###### Bio
@@ -28,8 +34,9 @@ Stephane Doncieux is Professor in Computer Science at ISIR (Institute of Intelli
 <br>
 <br>
 
+
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

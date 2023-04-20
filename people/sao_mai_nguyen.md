@@ -4,8 +4,10 @@
 <br>
 <br>
 
-<table>
-  <tr>
+
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://www.ensta-paris.fr/sites/default/files/styles/photo_cv/public/images/xNguyenSaoMaiIdSquare.png,qitok=DNur3ADK.pagespeed.ic.O4AbpJfCnJ.webp" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +16,8 @@
   <tr>
     <td style="text-align: center">organizer</td>
   </tr>
-</table>
+  </table>
+</div>
 
 
 ###### Bio
@@ -32,8 +35,9 @@ She received her PhD from Inria in 2013 in computer science, for her machine lea
 <br>
 <br>
 
+
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

@@ -1,8 +1,8 @@
-const version = '20230419173148';
+const version = '20230420095542';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/external%20sources/2016/08/27/example-post-one/","/categories/","/people/emre_ugur/","/people/fei_xu/","/people/georg_martius/","/people/gianluca_baldassarre/","/blog/","/","/people/jeff_clune/","/people/johann_huber/","/manifest.json","/people/matej_hoffmann/","/offline/","/people/olivier_sigaud/","/participate/","/people/pierre_yves_oudeyer/","/program/","/people/richard_duro/","/people/sao_mai_nguyen/","/assets/search.json","/people/stephane_doncieux/","/assets/styles.css","/people/sylvain_calinon/","/venue_and_accomodation/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/imol_2023_conf_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/external%20sources/2016/08/27/example-post-one/","/categories/","/people/emre_ugur/","/people/fei_xu/","/people/georg_martius/","/people/gianluca_baldassarre/","/blog/","/","/people/jeff_clune/","/people/johann_huber/","/people/junyi_chu/","/manifest.json","/people/matej_hoffmann/","/offline/","/people/olivier_sigaud/","/participate/","/people/pierre_yves_oudeyer/","/program/","/people/richard_duro/","/people/sao_mai_nguyen/","/assets/search.json","/people/stephane_doncieux/","/assets/styles.css","/people/sylvain_calinon/","/venue_and_accomodation/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/imol_2023_conf_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

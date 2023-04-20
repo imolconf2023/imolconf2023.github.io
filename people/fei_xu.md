@@ -4,8 +4,10 @@
 <br>
 <br>
 
-<table>
-  <tr>
+
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://psychology.berkeley.edu/sites/default/files/styles/300x300sc/public/people/XuFnew.jpg?itok=loFZeIlQ" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +16,9 @@
   <tr>
     <td style="text-align: center">speaker</td>
   </tr>
-</table>
+  </table>
+</div>
+
 
 
 ###### Bio
@@ -53,10 +57,10 @@ She has been honoured with several awards, including the Stanton Prize from the 
 <br>
 
 
-<div align="center">
-	<a href="http://127.0.0.1:4000/speakers_and_organizers/">Back to IMOL'23 people</a> &bull; <a href="http://127.0.0.1:4000/">Home</a>
-</div>
 
+<div align="center">
+	<a href="https://imolconf2023.github.io/">Home</a>
+</div>
 <br>
 <br>
 

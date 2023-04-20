@@ -4,8 +4,10 @@
 <br>
 <br>
 
-<table>
-  <tr>
+
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://is.mpg.de/uploads/employee/image/661/thumb_ticker_Georg_2018_crop_small.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +16,8 @@
   <tr>
     <td style="text-align: center">organizer</td>
   </tr>
-</table>
+  </table>
+</div>
 
 
 ###### Bio
@@ -32,8 +35,9 @@ His research focus is on machine learning for robotics, including internal model
 <br>
 <br>
 
+
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

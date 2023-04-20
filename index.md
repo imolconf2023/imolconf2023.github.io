@@ -76,12 +76,14 @@ Take a chance to present your work by answering our call for submission, or join
 
 <table style="display: inline-block">
   <tr>
-    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/173b.jpg" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/16/lmut.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/pierre_yves_oudeyer/"><b>Pierre-yves Oudeyer</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/junyi_chu/"><b>Junyi Chu</b></a></td>
   </tr>
 </table>
+
+
 
 <br>
 <br>
@@ -131,10 +133,10 @@ Take a chance to present your work by answering our call for submission, or join
 
 <table style="display: inline-block">
   <tr>
-    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/l24z.png" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/14/173b.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/pierre_yves_oudeyer/"><b>Pierre-yves Oudeyer</b></a></td>
   </tr>
 </table>
 

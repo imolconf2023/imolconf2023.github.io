@@ -4,8 +4,10 @@
 <br>
 <br>
 
-<table>
-  <tr>
+
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://www.jautomatica.es/2019/wp-content/uploads/2018/09/Richard.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +16,10 @@
   <tr>
     <td style="text-align: center">speaker</td>
   </tr>
-</table>
+  </table>
+</div>
+
+
 
 
 ###### Bio
@@ -42,7 +47,7 @@ Richard J. Duro (Senior Member, IEEE) received the M.S. and Ph.D. degrees in phy
 
 
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>

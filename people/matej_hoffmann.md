@@ -4,8 +4,9 @@
 <br>
 <br>
 
-<table>
-  <tr>
+<div align="center">
+  <table class="row">
+    <tr>
     <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/mpj9.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
@@ -14,7 +15,8 @@
   <tr>
     <td style="text-align: center">speaker</td>
   </tr>
-</table>
+  </table>
+</div>
 
 
 ###### Bio
@@ -42,8 +44,9 @@ In his research focuses on the synthetic methodology ("understanding by building
 <br>
 
 
+
 <div align="center">
-	<a href="http://127.0.0.1:4000/">Home</a>
+	<a href="https://imolconf2023.github.io/">Home</a>
 </div>
 
 <br>
