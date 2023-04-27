@@ -37,8 +37,15 @@ Topics of interest involve open-ended lifelong learning in autonomous agents and
 
 #### Submission process
 
-
+There are two ways to attend the meeting: **submit an abstract of work to present in the poster sessions (published or unpublished)** or **submit an abstract of ongoing work as a motivation letter**. Abstracts must be shorter or equal to 2 pages long.
+<br>
+<br>
+Presented works might be selected for a dedicated talk.
+<br>
+<br>
 The submission should be made by July 10th 2023 over easychair: *opening soon*
+
+
 
 
 
