@@ -274,6 +274,34 @@ Take a chance to present your work by answering our call for submission, or join
   </table>
 </div>
 
+
+<br>
+<br>
+
+### Sponsors
+
+<br>
+
+
+<div align="center">
+  <table class="row">
+    <tr>
+      <td class="column" style="vertical-align:bottom ; text-align:center">
+          <p style="text-align:center;"><img src="https://www.zupimages.net/up/23/22/g8bj.png" width="400"></p>
+          <br>
+          (<a href="https://pillar-robots.eu/">website</a>)
+          
+      </td>
+      <td class="column" style="vertical-align:bottom ; text-align:center">
+          <p style="text-align:center;"><img src="https://www.zupimages.net/up/23/22/apj8.png" width="300"></p>
+          <br>
+          (<a href="https://www.lillabneurodev.fr/">website</a>)
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <br>
 <br>
 <br>
