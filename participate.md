@@ -37,16 +37,16 @@ Topics of interest involve open-ended lifelong learning in autonomous agents and
 
 #### Submission process
 
-There are two ways to attend the meeting: **submit an abstract of work to present in the poster sessions (published or unpublished)** or **submit an abstract of ongoing work as a motivation letter**. Abstracts must be shorter or equal to 2 pages long.
+There are two ways to attend the meeting: either **submit an abstract of work to present in the poster sessions (published or unpublished)** or **submit an abstract of ongoing work as a motivation letter**. Please consider **only one of those two submission options**. The poster's abstracts must be shorter or equal to 2 pages long.
 <br>
 <br>
 Presented works might be selected for a dedicated talk.
 <br>
 <br>
-The submission should be made by July 10th 2023 over easychair: *opening soon*
-
-
-
+The submission should be made by July 10th 2023 over open review: <a href="https://openreview.net/group?id=IMOL/2023/Conference/">abstract submission webpage</a>
+<br>
+<br>
+An **accepted submission** (poster or motivation letter) is a **valid registration for IMOL'23**. The final decisions will be given by the 17th of July.
 
 
 <br>
