@@ -59,6 +59,8 @@ An **accepted submission** (poster or motivation letter) is a **valid registrati
 
 **Abstract/Registration submission deadline**: July 10, 2023
 
+**Final decision on registrations before**: July 17, 2023
+
 **Conference dates**: 13th to the 15th of September 2023
 
 <br>
