@@ -43,7 +43,7 @@ There are two ways to register for the meeting: either **submit an abstract of w
 Presented works might be selected for a dedicated talk.
 <br>
 <br>
-The submission should be made by July 10th 2023 over open review: <a href="https://openreview.net/group?id=IMOL/2023/Conference/">abstract submission webpage</a>
+The submission should be made by July 10th 2023 over open review: <a href="https://openreview.net/group?id=IMOL/2023/Conference">abstract submission webpage</a>
 <br>
 <br>
 An **accepted submission** (poster or motivation letter) is a **valid registration for IMOL'23**. The final decisions will be given by the 17th of July.
