@@ -57,7 +57,9 @@ An **accepted submission** (poster or motivation letter) is a **valid registrati
 
 **Abstract/Registration submission opening**: June 23, 2023
 
-**Abstract/Registration submission deadline**: July 10, 2023
+~~**Abstract/Registration submission deadline**: July 10, 2023~~
+
+**Abstract/Registration submission extended deadline**: July 16, 2023 at 14:00 CEST
 
 **Final decision on registrations**: July 17, 2023
 

@@ -12,6 +12,14 @@ IMOL 2023 is the sixth international workshop on Intrinsically Motivated Open-en
 <br>
 <br>
 
+**IMPORTANT: The submission deadline has been extended to July 16, 2023 at 14:00 CEST!**
+
+<br>
+<br>
+
+
+
+
 #### Aims of the workshop
 
 Following the five previous workshops, IMOL'23 will explore the advancements of **intrinsically motivated open-ended lifelong learning**. One of our goals is to **bring together researchers coming from different fields related to open-ended learning and autonomous development**. The workshop aims to be a highly interactive event with high-profile keynote presentations and the participation of an audience. We hope to foster close interactions among the participants with discussions, poster sessions, and collective round tables.
@@ -27,7 +35,9 @@ Take a chance to present your work by answering our call for submission, or join
 #### Important dates
 **Abstract submission opening**: <i>to be announced soon</i>
 
-**Abstract submission deadline**: July 10, 2023
+~~**Abstract submission deadline**: July 10, 2023~~
+
+**Abstract submission extended deadline**: July 16, 2023 at 14:00 CEST
 
 **Conference dates**: 13th to the 15th of September 2023
 
