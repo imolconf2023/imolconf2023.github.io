@@ -37,7 +37,14 @@ She is also committed to promoting inclusion and diversity in academic spaces th
 
 ###### Talk
 
-*coming soon*
+
+<div align="center">
+	<b>In praise of folly: goals, play, and problem-making.</b>
+</div>
+
+Few phenomena in childhood are as compelling or mystifying as play. While many animals play, human play is distinguished by the sheer diversity of goals that we pursue, even as adults. These goals can often seem idiosyncratic and unlikely to pay off in immediately useful ways. What is so rewarding about setting and pursuing arbitrary goals, and what is the value of this behavior for human cognition more generally? I will present behavioral studies of play and decision-making aimed at tackling these questions about the nature and development of exploration and intrinsic motivation.
+
+
 
 
 

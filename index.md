@@ -297,7 +297,7 @@ Take a chance to present your work by answering our call for submission, or join
   <table class="row">
     <tr>
       <td class="column" style="vertical-align:bottom ; text-align:center">
-          <p style="text-align:center;"><img src="https://www.zupimages.net/up/23/22/g8bj.png" width="400"></p>
+          <p style="text-align:center;"><img src="https://www.zupimages.net/up/23/28/pr3y.png" width="400"></p>
           <br>
           (<a href="https://pillar-robots.eu/">website</a>)
           

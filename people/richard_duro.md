@@ -36,7 +36,17 @@ Richard J. Duro (Senior Member, IEEE) received the M.S. and Ph.D. degrees in phy
 
 ###### Talk
 
-*coming soon*
+<br>
+<br>
+
+
+<div align="center">
+	<b>PILLAR-Robots: An Approach to Making Autonomous Robots Useful</b>
+</div>
+
+
+This talk will present the concepts and approach we are developing within the PILLAR-Robots Horizon project to address the problem of useful autonomy in robots. By useful autonomy we mean that robots must be autonomous enough to adapt and learn in domains that were not considered at design time, while, at the same time, achieving something that is useful for, and desired by, the humans that implement/use them. To this end we will provide a description of the ongoing work being carried out. That is, on the one hand, we will present the purpose framework. Its objective is to provide and formalize a unified motivational structure that considers and relates the different levels of motivational abstraction that are required. These go from the motivations of the user/designer all the way down to those required by an individual robot in a particular domain. On the other hand, we will describe the main components of a cognitive architecture that includes this motivational structure. It seeks to contextualize knowledge and allow for lifelong learning processes to take place through a grounded approach to knowledge reuse.
+
 
 
 

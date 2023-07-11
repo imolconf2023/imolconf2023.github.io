@@ -42,7 +42,18 @@ He collaborates with many academic labs (e.g. Sorbonne-Université, MILA, Inserm
 
 ###### Talk
 
-*coming soon*
+
+<div align="center">
+	<b>Autotelic agents, open-endedness and applications</b>
+</div>
+
+This presentation will review various strands of research studying
+mechanisms enabling open-ended development in humans and machines.
+I will focus on autotelic learning (= learning by inventing and sampling one's
+own goals) and on the role of language and culture to guide creative exploration.
+I will describe recent work using large language models for autotelic exploration.
+Then, I will describe two kinds of applications of these approaches: educational
+technologies and assisted scientific discovery.
 
 
 <br>

@@ -30,11 +30,21 @@ Gianluca Baldassarre received a bachelor and master in economics, 1998, and a Sp
 <br>
 <br>
 
-
 ###### Talk
 
-*coming soon*
+<br>
+<br>
 
+
+<div align="center">
+	<b>Integrating multiple motivations for autonomous open-ended learning</b>
+</div>
+
+In the literature related to the development of intrinsically motivated systems, the focus is usually on the phase in which the agents' only task is to explore the environment and acquire as much knowledge and skills as possible, with the idea that these will later be useful for the achievement of assigned tasks. Similar to more standard reinforcement learning scenarios, in which the sole objective is reward maximisation, in IMOL agents there is usually only one type of intrinsic signal that is maximised. Hardly ever different types of motivation are put together, and where it happens intrinsic motivations are often simply used as exploration bonus. Our interest is in developing motivational systems that hold different motivations together: this involves thinking about which ones to include, how to balance them and what are the most appropriate mechanisms to manage these processes in guiding learning. In addition, and no less important, it is crucial to focus on the fact that in order to maximise the positive effects of autonomous open-ended learning, it is necessary for it to be guided by a purpose (possibly externally assigned) that limits the uncontrolled explosion of goals and behaviours generated solely on the basis of curiosity.
+
+<br>
+
+Talk shared with <a href="https://imolconf2023.github.io/people/vieri_santucci/">Vieri Giuliano Santucci</a>
 
 
 <br>

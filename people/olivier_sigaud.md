@@ -46,7 +46,13 @@ He was responsible of a group about Learning for Control and Decision in Robotic
 
 ###### Talk
 
-*coming soon*
+
+<div align="center">
+	<b>Towards Inferential Social Learning in Teachable Autotelic Agents</b>
+</div>
+
+Future artificial agents immersed in our society will have to learn under the guidance of their users. In ``Towards Teachable Autotelic Agents'', some colleagues and myself have listed some of the requirements to endow these agents with the capability to be efficiently taught by humans. Among other things, we have outlined that such agents crucially need to be autotelic, i.e. they must be able to set and learn to pursue their own goals driven by some intrinsic motivations. Our survey of the literature has shown that fulfilling most of the requirements was under active investigations, apart from endowing agents with inferential social learning capabilities outlined by Gweon. In this talk, I will describe our ongoing efforts to fill this gap. First, I will show how a simple Bayesian goal inference mechanism can be leveraged to endow an artificial teacher with pedagogical teaching capabilities and an artificial learner with pragmatic interpretation capabilities. I will illustrate these capabilities with sensorimotor demonstrations, language instructions and a combination of both. Then I will show how this first teacher-learner interaction framework can be enriched by introducing in the agents the capability to model each other, endowing them with a preliminary form of theory of mind. In particular, I will highlight the pros and cons of modeling these additional capabilities with a Bayesian framework versus deep neural networks and discuss some of the related literature.
+
 
 
 
