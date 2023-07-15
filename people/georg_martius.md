@@ -30,6 +30,27 @@ His research focus is on machine learning for robotics, including internal model
 <br>
 <a href="https://scholar.google.com/citations?user=b-JF-UIAAAAJ&hl=fr&oi=ao">Google scholar page</a> &bull; <a href="https://is.mpg.de/person/gmartius">Personal webpage</a>
 
+
+<br>
+<br>
+
+
+###### Talk
+
+
+<div align="center">
+	<b>Robot learning from few samples by exploiting the structure and geometry of data</b>
+</div>
+
+I will present our recent work on combining intrinsic motivation signals with model-based planning methods to make robots learn by freely playing how to interact effectively with the world.
+<br>
+<br>
+The learned world models enable zero-shot planning for new tasks, which is really exciting. Next, we consider how to impose more structure into the play phase. It turns out, we can operationalize the concept of regularity as an additional intrinsic motivation that leads to improved performance in downstream construction tasks.
+The talk will also present the basic building blocks that we developed for our most recent results, namely fast online planning methods and uncertainty modeling.
+
+
+
+
 <br>
 <br>
 <br>
