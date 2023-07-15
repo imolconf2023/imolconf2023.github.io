@@ -39,7 +39,7 @@ His research focus is on machine learning for robotics, including internal model
 
 
 <div align="center">
-	<b>Robot learning from few samples by exploiting the structure and geometry of data</b>
+	<b>Intrinsic Motivation meets Model-based RL - a Dream Team</b>
 </div>
 
 I will present our recent work on combining intrinsic motivation signals with model-based planning methods to make robots learn by freely playing how to interact effectively with the world.
