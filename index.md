@@ -33,7 +33,7 @@ Take a chance to present your work by answering our call for submission, or join
 <br>
 
 #### Important dates
-**Abstract submission opening**: <i>to be announced soon</i>
+**Abstract submission opening**: June 23, 2023
 
 ~~**Abstract submission deadline**: July 10, 2023~~
 

@@ -31,10 +31,28 @@ He is interested in robotics, robot learning, cognitive robotics.
 <br>
 <br>
 <a href="https://scholar.google.com/citations?user=B1Dy3WMAAAAJ&hl=en&oi=ao/">Google scholar page</a> &bull; <a href="https://www.cmpe.boun.edu.tr/~emre/">Personal webpage</a>
+
+
+<br>
+<br>
+
+
+###### Talk
+
+
+<div align="center">
+	<b> DeepSym: Discovering symbols for planning in robotics</b>
+</div>
+
+Symbolic planning and reasoning are powerful tools for robots tackling complex tasks. However, the need to manually design the symbols restrict their applicability, especially for robots that are expected to act in open-ended environments. In this talk, I will present our methods that are used to discover action-grounded, object-and-effect symbols and symbolic operators, and build probabilistic rules over them for non-trivial action planning in robotic manipulation tasks.
+
+
 <br>
 <br>
 <br>
 <br>
+
+
 
 
 <div align="center">
