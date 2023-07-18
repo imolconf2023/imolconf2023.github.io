@@ -75,12 +75,13 @@ Take a chance to present your work by answering our call for submission, or join
   </tr>
 </table>
 
+
 <table style="display: inline-block">
   <tr>
-    <td style="text-align: center"><img src="https://avatars.githubusercontent.com/u/14333967?v=4" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://is.mpg.de/uploads/employee/image/661/thumb_ticker_Georg_2018_crop_small.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/gianluca_baldassarre/"><b>Gianluca Baldassarre</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/georg_martius/"><b>Georg Martius</b></a></td>
   </tr>
 </table>
 
@@ -164,6 +165,14 @@ Take a chance to present your work by answering our call for submission, or join
   </tr>
 </table>
 
+<table style="display: inline-block">
+  <tr>
+    <td style="text-align: center"><img src="https://avatars.githubusercontent.com/u/14333967?v=4" style="width:200px;height:200px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/gianluca_baldassarre/"><b>Gianluca Baldassarre</b></a></td>
+  </tr>
+</table>
 
 
 
