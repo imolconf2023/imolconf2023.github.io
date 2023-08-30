@@ -14,7 +14,7 @@
     <td style="text-align: center"><b>Sao Mai Nguyen</b></td>
   </tr>
   <tr>
-    <td style="text-align: center">organizer</td>
+    <td style="text-align: center">organizer &bull; speaker</td>
   </tr>
   </table>
 </div>
@@ -29,6 +29,15 @@ She received her PhD from Inria in 2013 in computer science, for her machine lea
 <br>
 <br>
 <a href="https://scholar.google.com/citations?user=ppPWNQoAAAAJ&hl=fr&oi=ao">Google scholar page</a> &bull; <a href="https://nguyensmai.free.fr">Personal webpage</a>
+
+<br>
+<br>
+
+
+###### Talk
+
+*coming soon*
+
 
 <br>
 <br>

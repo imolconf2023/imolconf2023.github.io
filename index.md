@@ -59,22 +59,21 @@ Take a chance to present your work by answering our call for submission, or join
 
 <table style="display: inline-block">
   <tr>
-    <td style="text-align: center"><img src="https://www.isir.upmc.fr/wp-content/uploads/2022/03/919_ISIR_SIGAUD_Olivier.jpg" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://www.ensta-paris.fr/sites/default/files/styles/photo_cv/public/images/xNguyenSaoMaiIdSquare.png,qitok=DNur3ADK.pagespeed.ic.O4AbpJfCnJ.webp" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/olivier_sigaud/"><b>Olivier Sigaud</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/sao_mai_nguyen/"><b>Sao Mai Nguyen</b></a></td>
   </tr>
 </table>
 
 <table style="display: inline-block">
   <tr>
-    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/mpj9.jpg" style="width:200px;height:200px;"></td>
+    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/5wat.jpg" style="width:200px;height:200px;"></td>
   </tr>
   <tr>
-    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/matej_hoffmann/"><b>Matej Hoffmann</b></a></td>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/johann_huber/"><b>Johann Huber</b></a></td>
   </tr>
 </table>
-
 
 <table style="display: inline-block">
   <tr>
@@ -174,7 +173,32 @@ Take a chance to present your work by answering our call for submission, or join
   </tr>
 </table>
 
+<table style="display: inline-block">
+  <tr>
+    <td style="text-align: center"><img src="https://www.zupimages.net/up/23/11/mpj9.jpg" style="width:200px;height:200px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/matej_hoffmann/"><b>Matej Hoffmann</b></a></td>
+  </tr>
+</table>
 
+<table style="display: inline-block">
+  <tr>
+    <td style="text-align: center"><img src="https://www.isir.upmc.fr/wp-content/uploads/2022/03/919_ISIR_SIGAUD_Olivier.jpg" style="width:200px;height:200px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/olivier_sigaud/"><b>Olivier Sigaud</b></a></td>
+  </tr>
+</table>
+
+<table style="display: inline-block">
+  <tr>
+    <td style="text-align: center"><img src="https://www.isir.upmc.fr/wp-content/uploads/2023/08/photoFev2023_2-2048x2005.jpg" style="width:200px;height:200px;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://imolconf2023.github.io/people/laure_soulier/"><b>Laure Soulier</b></a></td>
+  </tr>
+</table>
 
 
 
@@ -229,6 +253,7 @@ Take a chance to present your work by answering our call for submission, or join
     <td style="text-align: center"><a href="https://imolconf2023.github.io/people/johann_huber/"><b>Johann Huber</b></a></td>
   </tr>
 </table>
+
 
 
 <br>

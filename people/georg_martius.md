@@ -14,7 +14,7 @@
     <td style="text-align: center"><b>Georg Martius</b></td>
   </tr>
   <tr>
-    <td style="text-align: center">organizer</td>
+    <td style="text-align: center">organizer &bull; speaker</td>
   </tr>
   </table>
 </div>
