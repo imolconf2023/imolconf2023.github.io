@@ -27,6 +27,9 @@ He studied Robotics, Image processing and AI at the engineering school of Polyte
 
 
 
+<br>
+<br>
+
 ###### Talk
 
 
