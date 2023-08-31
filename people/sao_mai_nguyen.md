@@ -36,7 +36,19 @@ She received her PhD from Inria in 2013 in computer science, for her machine lea
 
 ###### Talk
 
-*coming soon*
+
+<br>
+<br>
+
+
+<div align="center">
+	<b>Hierarchical actions : from human movement analysis to complex sensorimotor skills learning</b>
+</div>
+
+As general actions by human action analysis can be modeled in a hierarchical manner, robots that can carry out more complex tasks than simple machines also need to learn to control their environment using a hierachical model. This learning process needs to be framed in the life-long learning framework, allowing learning agents to learn in a continual manner multiple tasks by devising their own curriculum in a open-ended manner with intrinsic motivation, by interaction with their environment and humans.
+<br>
+<br>
+We present how human movements have been analysed in a hierarchical manner for a robot coach for physical rehabilitation in project Keraal (http://keraal.enstb.org), and how activities of daily living, in smart homes equipped with IoT, can be modeled with its context and in a hierarchical way using NLP methods for sequence modelling. We also present how robotic arms learn hierarchies between complex tasks to allow automatic curriculum learning and transfer of knowledge from simple tasks to more complex task. We present two models : a sequential and a nested model for robot control. The learning of both models relies on the simple theory of developmental theory : intrinsic motivation, which allows learning without a specified goal but in an open-ended process. Intrinsic motivation also allows the robot to automatically devise its learning curriculum to learn simple to complex tasks.
 
 
 <br>
