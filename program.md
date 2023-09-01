@@ -5,49 +5,11 @@
 
 #### Program
 
+
 <br>
 <br>
 
-
-<table class="row" >
-  <tr>
-    <td class="column" style="font-weight:bold">
-        September, 13th
-    </td>
-    <td class="column" style="font-weight:bold">
-        September, 14th
-    </td>
-    <td class="column" style="font-weight:bold">
-        September, 15th
-    </td>
-  </tr>
-  <tr>
-    <td class="column" style="vertical-align:top;padding-right: 40px">
-        <br>
-        09:00	Beginning of the day<br>
-        <br>
-        <i>Details soon</i><br>
-        <br>
-        18:20	End of the day<br>
-    </td>
-    <td class="column" style="vertical-align:top;padding-right: 40px">
-        <br>
-        09:00	Beginning of the day<br>
-        <br>
-        <i>Details soon</i><br>
-        <br>
-        17:50	End of the day<br>
-    </td>
-    <td class="column" style="vertical-align:top;padding-right: 40px">
-        <br>
-        09:00	Beginning of the day<br>
-        <br>
-        <i>Details soon</i><br>
-        <br>
-        12:55	End of IMOL 2023<br>
-    </td>
-  </tr>
-</table>
+The conference program is available <a href="https://imolconf2023.github.io/assets/program/imol23_program.pdf"><b>here</b></a>.
 
 
 
