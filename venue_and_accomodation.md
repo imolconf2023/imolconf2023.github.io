@@ -48,6 +48,19 @@ The campus can easily be reached by taking the public transports:
 
 <b>Bus</b> : Jussieu <img src="https://www.ratp.fr/sites/default/files/lines-assets/picto/busratp/picto_busratp_ligne-67.svg" width="30"><img src="https://www.ratp.fr/sites/default/files/lines-assets/picto/busratp/picto_busratp_ligne-89.svg" width="30">, or Université Paris IV <img src="https://www.ratp.fr/sites/default/files/lines-assets/picto/busratp/picto_busratp_ligne-63.svg" width="30"><img src="https://www.ratp.fr/sites/default/files/lines-assets/picto/busratp/picto_busratp_ligne-89.svg" width="30">
 
+<br>
+<br>
+
+##### IMOL on the Science Campus
+<br>
+<br>
+
+{% include figure.html image="https://www.zupimages.net/up/23/37/3m4t.png" position="center" width="750"%}
+
+<br>
+<br>
+All days, registration, talks, and poster sessions will be held at the CICSU (Centre International de Conférences de Sorbonne Université), 102 (hall) & 106 room, 1st floor, tower 44, corridor 44-45.
+
 
 
 
