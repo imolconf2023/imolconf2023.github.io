@@ -39,14 +39,21 @@ He conducts research in three related areas of machine learning : Deep Learning,
 
 ###### Talk
 
-*coming soon*
+
+<div align="center">
+	<b>Open-ended and AI-generating Algorithms in the Era of Foundation Models</b>
+</div>
+
+Foundation models (e.g. large language models) create exciting new opportunities in our longstanding quests to produce open-ended and AI-generating algorithms. In this talk I will share some of our recent work harnessing the power of foundation models to make progress in these areas. I will cover three of our more recent papers: (1) OMNI: Open-endedness via Models of human Notions of Interestingness, (2) Video Pre-Training (VPT), and (3) Thought Cloning: Learning to Think while Acting by Imitating Human Thinking. 
 
 
 
+
 <br>
 <br>
 <br>
 <br>
+
 
 
 

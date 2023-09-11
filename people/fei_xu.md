@@ -41,13 +41,22 @@ She has been honoured with several awards, including the Stanton Prize from the 
 <br>
 <a href="https://scholar.google.com/citations?user=Olalwx8AAAAJ&hl=fr&oi=ao/">Google scholar page</a> &bull; <a href="https://psychology.berkeley.edu/people/fei-xu/">Personal webpage</a>
 
+
 <br>
 <br>
 
 
 ###### Talk
 
-*coming soon*
+
+<div align="center">
+	<b>Learning in infancy: language and play</b>
+</div>
+
+Research from the last couple of decades has demonstrated that human infants and young children have powerful learning mechanisms that support learning across domains.  Here I will report studies on (1) how language, specifically words that refer to object kinds, may facilitate the development of representations of kind concepts and (2) how in free play, young children are able to figure out second-order rules that contribute to their developing conceptual system.  
+
+
+
 
 
 
